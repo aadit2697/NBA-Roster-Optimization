@@ -1,6 +1,6 @@
 # Rubric for Project Proposal
 
-Your project proposal will follow the format of a standard research proposal, and will be written in markdown format.  It should not be longer than 2-3 pages max, and may be shorter.  It will have the following sections.
+Your project proposal will follow the format of a standard research proposal, and will be written in markdown format.  It will be saved in the same directory as this rubric, and simply named "proposal.md."  It should not be longer than 2-3 pages max, and may be shorter.  It will have the following sections.
 
 ### Title
 
