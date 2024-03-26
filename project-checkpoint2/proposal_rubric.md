@@ -7,7 +7,7 @@ NBA Team Rooster Optimization
 
 ## Team
 
-Point of Contact: <br> Member1: aadit2697 <br> Member2: revanthshahukaru <br> Member3: mnmcfadd <br> Member4: VrushaliLad799 <br> Member5: Kapil1917T
+Point of Contact: aadit2697 <br> Member1: aadit2697 <br> Member2: revanthshahukaru <br> Member3: mnmcfadd <br> Member4: VrushaliLad799 <br> Member5: Kapil1917T
 
 ## Overview
 
